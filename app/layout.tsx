@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Hbtoto : Slot Bonus New Member 100 Di Awal Tanpa Deposit Dan Slot Bonus 100 Di Depan</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Hbtoto menawarkan pengalaman bermain slot yang luar biasa dengan memberikan bonus yang menguntungkan untuk para pemain baru. Sebagai anggota baru, Anda dapat menikmati Slot Bonus New Member 100 di Awal Tanpa Deposit, yang memungkinkan Anda untuk langsung merasakan keseruan bermain tanpa perlu melakukan deposit terlebih dahulu" />
+        <meta name="keywords" content="Hbtoto, Slot Bonus New Member 100, Deposit Dan Slot Bonus 100, Situs Judi Online Terpercaya, Deposit Via Dana, Link Alternatif Slot Online, Link Alternatif Slot, Slot Online Deposit Pulsa, Bandarqq Alternatif" />
+        <meta name="google-site-verification" content="ty9sg0C6kHCwjCjocgdNd-9kUiDTaKXPaWV2t246yqo" />
+        <meta name="application-name" content="hbtoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="hbtoto" />
+        <meta name="publisher" content="hbtoto" />
+        <meta name="copyright" content="hbtoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Hbtoto : Slot Bonus New Member 100 Di Awal Tanpa Deposit Dan Slot Bonus 100 Di Depan" />
         <meta property="og:description" content="Hbtoto : Slot Bonus New Member 100 Di Awal Tanpa Deposit Dan Slot Bonus 100 Di Depan, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="hbtoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="hbtoto" />
         <meta name="twitter:title" content="Hbtoto : Slot Bonus New Member 100 Di Awal Tanpa Deposit Dan Slot Bonus 100 Di Depan" />
         <meta name="twitter:description" content="Hbtoto : Slot Bonus New Member 100 Di Awal Tanpa Deposit Dan Slot Bonus 100 Di Depan, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
