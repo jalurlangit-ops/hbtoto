@@ -3,7 +3,7 @@
 import { Inter } from 'next/font/google';
 import './globals.css';
 
-const nameDomain = "https://camnangphaidep.com";
+const nameDomain = "https://www.myphamtrangdahcm.com";
 
 const inter = Inter({
   variable: '--font-inter',
@@ -15,7 +15,7 @@ function rank() {
       __html: `{
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "https://camnangphaidep.com",
+    "name": "https://www.myphamtrangdahcm.com",
     "operatingSystem": "ANDROID",
     "applicationCategory": "GameApplication",
     "aggregateRating": {
