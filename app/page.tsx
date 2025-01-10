@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>hbtoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              hbtoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, hbtoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Hbtoto memberikan penawaran menarik bagi para pemain baru dengan memberikan Slot Bonus New Member sebesar 100% di awal tanpa perlu melakukan deposit terlebih dahulu. Ini adalah kesempatan emas bagi Anda yang ingin mencoba peruntungan di dunia slot tanpa harus mengeluarkan uang. Cukup mendaftar sebagai member baru di platform ini dan nikmati bonus yang langsung masuk ke akun Anda, memungkinkan Anda untuk bermain dan meraih kemenangan besar tanpa risiko finansial di awal
             </p>
             <p>
-              hbtoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Tidak hanya itu, Hbtoto juga menawarkan Slot Bonus 100% di depan, memberikan kesempatan ekstra bagi pemain untuk meraih lebih banyak keuntungan dari permainan yang mereka pilih. Dengan bonus ini, Anda bisa memulai petualangan slot Anda dengan saldo yang lebih besar, meningkatkan peluang untuk menang lebih banyak. Jangan lewatkan kesempatan luar biasa ini untuk merasakan keseruan dan potensi kemenangan dengan Hbtoto
             </p>
             
             <p>
